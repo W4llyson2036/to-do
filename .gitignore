@@ -1,0 +1,21 @@
+# Pastas do Visual Studio
+.vs/
+Debug/
+Release/
+
+# Arquivos de projeto/usuário
+*.vcxproj.user
+*.sln.dotCover
+*.suo
+
+# Binários e objetos
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.log
+
+# Arquivos gerados
+*.log
+*.cache
